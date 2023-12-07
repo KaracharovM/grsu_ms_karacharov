@@ -1,0 +1,25 @@
+misch@DESKTOP-T8FRED0 MINGW64 /c/ls/grsu_ms_karacharov (main)
+$ git log
+commit 11300809348daa8b900971281e5f49129f28e179 (HEAD -> main, origin/main, origin/HEAD)
+Merge: bd43e9d a9c059b
+Author: KaracharovM <146513339+KaracharovM@users.noreply.github.com>
+Date:   Thu Nov 23 13:23:24 2023 +0300
+
+    Merge pull request #1 from KaracharovM/pr2
+
+    Pr2
+
+commit bd43e9dbb36f84d5ed04917d4a2f6b064d130f89
+Author: KaracharovM <146513339+KaracharovM@users.noreply.github.com>
+Date:   Thu Nov 23 13:22:02 2023 +0300
+
+    Delete pr3/plchdr
+
+commit a317187006d5945c0f26034443afefbe5403defe
+Author: KaracharovM <146513339+KaracharovM@users.noreply.github.com>
+Date:   Thu Nov 23 13:21:37 2023 +0300
+
+    Add files via upload
+
+commit ce3d2c4adaf6c09a236f2a1eb4bbf10746c70b6d
+:
